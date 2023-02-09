@@ -1,0 +1,3 @@
+# Community Guidelines
+
+> WIP
