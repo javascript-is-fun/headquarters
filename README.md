@@ -12,5 +12,5 @@ Home for all the code, READMEs, guidelines and other content for the Polywork Cl
 
 ## The Team
 
-- Zac Rosenbauer, Founder [@zrosenbauer](https://github.com/zrosenbauer)
-- Andres Sepulveda Morales, Moderator [@e8-AndresSepulvedaMorales](https://github.com/e8-AndresSepulvedaMorales)
+- [Zac Rosenbauer](https://github.com/zrosenbauer), Founder
+- [Andres Sepulveda Morales](https://github.com/e8-AndresSepulvedaMorales), Moderator
