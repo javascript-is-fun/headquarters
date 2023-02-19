@@ -24,7 +24,7 @@ We welcome all levels from beginner all the way to Brendan Eich (he wrote JS).
 We are JavaScript group, and we will focus on the JavaScript and related technologies. 
 
 - Members **SHOULD** relate all posts to technology
-- Members **SHOULD NO**T post about outside technologies 
+- Members **SHOULD NOT** post about outside technologies 
 
 ### No Selling
 
@@ -47,9 +47,9 @@ A founders sign-off is required to ban an individual, unless at least 2 moderato
 
 ### The Process
 
-1. **Warning** - a warning will be DM'd to the individual that they have broken XYZ guideline(s) and given a chance to remedy the situtation.
-2. **Second Warning** - a second warning will be DM'd that declares this is the final warning.
-3. **Removal** - immediate removal from the community (& possibly reported to Polywork depending on the severity).
+1. **Warning** - A warning will be DM'd to the individual that they have broken XYZ guideline(s) and given a chance to remedy the situtation.
+2. **Second Warning** - A second warning will be DM'd that declares this is the final warning.
+3. **Removal** - Immediate removal from the community (& possibly reported to Polywork depending on the severity).
 
 ### Removal of Content
 
