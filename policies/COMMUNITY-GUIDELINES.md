@@ -54,4 +54,3 @@ A founders sign-off is required to ban an individual, unless at least 2 moderato
 ### Removal of Content
 
 The founders & moderators reserve the right to remove content that does not adhere to our guidelines.
-
