@@ -1,5 +1,5 @@
 <div>
-    <img src="/assets/archive.png" />
+    <img src="https://raw.githubusercontent.com/zrosenbauer/art/main/banners/banner_archived.png" alt="Archived Project" />
     <br />
     <br />
     <p align="center">
@@ -8,9 +8,7 @@
         In the future we might bring this back...outside of Polywork but the founding crew is a too busy atm.
     </p>
 </div>
-
 <hr />
-
 <br />
 <br />
 <br />
